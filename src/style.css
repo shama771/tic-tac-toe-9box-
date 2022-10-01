@@ -1,0 +1,27 @@
+
+        .container{
+            display: grid;
+            grid-template-columns: 100px 100px 100px;
+            grid-template-rows: 100px 100px 100px;
+            grid-gap: 10px ;
+            /* padding-left: 40%; */
+            /* align-items: center; */
+
+        }
+        .container div{
+            background-color: brown;
+            border: solid 1px blanchedalmond;
+        }
+         .space{
+            /* padding: 10px; */
+            margin: 20px;
+         }   
+
+        
+        .app-body{
+            padding-left: 40%;
+        }
+        .turn{
+            padding-left: 10%;
+        }
+   
